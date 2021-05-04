@@ -1,6 +1,6 @@
 ### Hi there, I'm Rahul Mishra 👋
 
-## I'm a Web/Mobile Developer!
+## I'm a Front End Developer!
 - 🌱 I’m currently learning server side languages🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to read comics and play football.
